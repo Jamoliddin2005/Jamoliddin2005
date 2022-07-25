@@ -1,16 +1,25 @@
-### Hi there 👋
+![Web development](https://media-exp1.licdn.com/dms/image/C4D16AQEz_0JkFPJ-DA/profile-displaybackgroundimage-shrink_350_1400/0/1657697000507?e=1664409600&v=beta&t=aMRKrZIHBHOtX5pfIN0314gHq_KwLl5yeqeUtxEw1i0)
 
-<!--
-**Jamoliddin2005/Jamoliddin2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://thumbs.gfycat.com/AdorableDopeyKinkajou-max-1mb.gif" alt="gif" width="30"> I am a Full Stack Web Developer. I started programming in 2021.
+I am currently a freelancer
+i Like programming, My favorite technology is Nodejs
+I create online shop, lending page, website for your business
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Fron-end and Back-end
+- 💬 Ask me about Anything
+- 📫 How to reach me: <a href="mailto:jamoliddindev@gmail.com">Email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Endorsements
+
+<ul>
+  <li>HTML & CSS & Less & Sass & Scss</li>
+  <li>Bootstrap & Tailwind css & Materialize css</li>
+  <li>JavaScript</li>
+  <li>jQuery</li>
+  <li>Git & Github</li>
+  <li>React & Redux</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+  <li>Firebase</li>
+</ul>
