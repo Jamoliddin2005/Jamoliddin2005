@@ -3,7 +3,7 @@
 - I started programming in 2021.
 - I am currently a freelancer
 - i Like programming, My favorite technology is Nodejs
-- I create online shop, lending page, website for your business
+- I create online shop, lending page, website
 
 - 🌱 I’m currently learning Fron-end and Back-end
 - 💬 Ask me about Anything
