@@ -13,7 +13,7 @@
 
 <ul>
   <li>HTML & CSS & Less & Sass & Scss</li>
-  <li>Bootstrap & Tailwind css & Materialize css</li>
+  <li>Bootstrap & Tailwind css & Materialize css & UIkit</li>
   <li>JavaScript</li>
   <li>jQuery</li>
   <li>Git & Github</li>
